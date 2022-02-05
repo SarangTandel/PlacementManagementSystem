@@ -1,0 +1,21 @@
+.registerform{
+    padding: 1% 30%;
+    background-image:url("../Photos/chex1.png") ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+   
+}
+
+.fname, .lname, .email, .phno, .password{
+    padding: 1% 0%;
+}
+
+.fname1, .lname1, .email1, .phno1, .password1,.accbtn{
+    width: 400px;
+}
+
+.wrong{
+    color: red;
+}

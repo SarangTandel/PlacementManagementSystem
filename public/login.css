@@ -1,0 +1,65 @@
+.loginform{
+    padding: 7% 35%;    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("../Photos/chex1.png");
+    display: block;
+    margin: auto;
+     
+}
+
+.email1{
+    width: 400px;
+}
+
+.password1{
+    width: 400px;
+}
+.logbtn{
+    width: 400px;
+}
+
+.heading{
+    padding:2% 0% ;
+    
+}
+
+.email, .password, .option{
+    padding: 2% 0%;
+    display: block;
+}
+
+.teacherbtn, .studentbtn{
+    width: 200px    ;
+    border-radius: 5px;
+    
+}
+
+.forgot{
+    float: right;
+}
+
+.signup{
+    padding: 2% 0%;
+}
+.loginas{
+    float: left;
+}
+
+.lform{
+    
+    margin: 0% 35%;
+}
+
+.rform{
+    padding: 0% 35%;
+}
+
+.rbtn{
+    margin-right: 5%;
+}
+
+.rbtn1{
+    margin-right: 2%;
+}

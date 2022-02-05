@@ -1,0 +1,160 @@
+/*font-family: 'Lobster', cursive;*/
+
+.link {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+.lbtn {
+  margin-top: 5px;
+}
+
+.searchbar {
+  margin-top: 5px;
+}
+
+.mainname {
+  color: white;
+}
+Link {
+  color: gold;
+}
+.mainpage {
+  margin: auto;
+}
+
+.mainfont {
+  color: rgb(0, 0, 0);
+  padding: 7% 5%;
+}
+
+.searchtext {
+  border: 2px solid black;
+  outline: 2px solid black;
+  width: 0px;
+  padding: 0px;
+  margin: 0px;
+  background: none;
+}
+.frontpage {
+  background-image: url("../Photos/bgimage.jpg");
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.searchbar {
+  background-color: white;
+  display: block;
+  padding: 0.3rem 1rem;
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 25px;
+}
+
+.stext {
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.sbtn {
+  color: black;
+  background: none;
+  border: none;
+  outline: none;
+}
+
+.lbtn {
+  color: black;
+}
+
+.text {
+  padding: 15% 40%;
+}
+
+.dbox {
+  margin: 2% 5%;
+  padding: 2% 5%;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgb(235, 230, 230);
+}
+
+.sbox {
+  margin: 2% 1%;
+}
+
+.dbtn {
+  margin-right: 1%;
+}
+
+.btn-width {
+  width: 200px;
+}
+
+.main-heading {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.full-height {
+  height: 100vh;
+}
+
+.red {
+  background-color: red;
+}
+
+.horizontal-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.divider {
+  margin-top: 20px;
+  width: 370px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  text-align: center;
+}
+.divider span {
+  display: inline-block;
+  padding: 0 10px;
+  position: relative;
+}
+.divider span::before,
+.divider span::after {
+  content: "";
+  display: block;
+  border-top: solid 1px #7b3596;
+  height: 1px;
+  position: absolute;
+  background: #ddd;
+  top: 50%;
+  width: 90vh;
+}
+.divider span::before {
+  right: 100%;
+}
+.divider span::after {
+  left: 100%;
+}
+
+
+.student-profile-container{
+  padding: 0 37%;
+}
+.box{
+  display: flex;
+  margin-top:10px;
+}
